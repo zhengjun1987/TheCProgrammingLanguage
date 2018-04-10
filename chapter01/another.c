@@ -7,8 +7,12 @@
  *  Desc:
  */
 
-main(){
+int ant(){
     printf("hello,");
     printf("world");
     printf("\n");
+    return 0;
 }
+//192:TheCProgrammingLanguage zhengjun$ cc chapter01/another.c 编译源代码文件，生成可执行文件a.out
+//192:TheCProgrammingLanguage zhengjun$ ./a.out
+//        hello,world
