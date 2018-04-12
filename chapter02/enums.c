@@ -21,7 +21,7 @@ unsigned getbits(unsigned x, int p, int n) {
     return (x >> (p - n)) & (~(~0 << n));
 }
 
-int main() {
+int enu() {
     enum months {
         Jan = 1, Feb, Mar, Apr, May, Jun, Jul, Aug, Sept, Oct, Nov, Dec
     };
