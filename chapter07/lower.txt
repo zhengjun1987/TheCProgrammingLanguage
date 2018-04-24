@@ -1,0 +1,5 @@
+sublime text 
+file edit selection 
+find view goto 
+tools project window 
+help update about
